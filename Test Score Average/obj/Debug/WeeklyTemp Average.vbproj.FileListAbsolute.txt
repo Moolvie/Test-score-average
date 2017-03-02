@@ -1,0 +1,14 @@
+D:\projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.xml
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+D:\projects\Weekly Temp Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\projects\Weekly Temp Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\projects\Weekly Temp Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\projects\Weekly Temp Average\Test Score Average\bin\Debug\Test Score Average.xml
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\WeeklyTemp Average.vbproj.GenerateResource.Cache
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\Test Score Average.xml
+D:\projects\Weekly Temp Average\Test Score Average\obj\Debug\Test Score Average.pdb

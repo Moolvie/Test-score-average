@@ -1,0 +1,20 @@
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.xml
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.xml
+c:\users\owner\documents\visual studio 2012\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+D:\projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.xml
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+D:\projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.xml
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+D:\projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbproj.GenerateResource.Cache
